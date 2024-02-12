@@ -59,6 +59,28 @@ header{
     padding: 25px 0;
 }
 
-/* nav li{
+nav li{
     display: none;
-} */
+    margin-right: 35px;
+    font-size: 1em;
+    margin-top: 13px;
+}
+
+.search-icon{
+    background-color: #FF4A52;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-icon a{
+    color: #ffffff;
+}
+
+.search-icon{
+    justify-content: center;
+    align-items: center;
+}
+
+.drop-down-menu a{
+    color: black;
+}

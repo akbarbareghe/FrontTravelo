@@ -1,4 +1,28 @@
-@media(min-width:576px){}
-@media(min-width:768px){}
-@media(min-width:992px){}
-@media(min-width:1200px){}
+@media(min-width:576px){
+    .search-icon{
+        position: absolute;
+        width: 45px;
+        right: 100px;
+        top: 0;
+        bottom: 0;
+        background-color: #FF4A52;
+    }
+}
+/* ----------------------------------------------------------- */
+@media(min-width:768px){
+
+}
+
+/* ----------------------------------------------------------- */
+@media(min-width:992px){
+    nav li{
+        display: inline-block;
+    }
+}
+
+/* ----------------------------------------------------------- */
+@media(min-width:1200px){
+    .search-icon{
+        width: 100px;
+    }
+}
